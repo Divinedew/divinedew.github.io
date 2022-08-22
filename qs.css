@@ -1,4 +1,4 @@
-/*body{
+body{
 	width: 100%;
 	height: 100%;
 	margin: 85px;
@@ -7,11 +7,6 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}*/
-.content{
-	padding: 290px 280px;
-	position: relative;
-	background-image: url("header4.jpg");
 }
 
 h1{
