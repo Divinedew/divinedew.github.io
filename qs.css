@@ -10,6 +10,7 @@
 }*/
 .content{
 	padding: 90px 80px;
+	position: relative;
 	background-image: url("header4.jpg");
 }
 
