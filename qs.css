@@ -8,16 +8,8 @@
   -o-background-size: cover;
   background-size: cover;
 }*/
-.section{
-	width: 100%;
-	height: 100%;
-	margin: 85px;
-	background: url(header4.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-
+.section1{
+	background-image: url("header4.jpg") ;
 }
 
 h1{
