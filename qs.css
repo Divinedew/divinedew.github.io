@@ -9,6 +9,7 @@
   background-size: cover;
 }*/
 .content{
+	padding: 90px 80px;
 	background-image: url("header4.jpg");
 }
 
