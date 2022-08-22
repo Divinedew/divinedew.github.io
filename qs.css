@@ -9,7 +9,7 @@
   background-size: cover;
 }*/
 .one{
-	background: url(header4.jpg)
+	background-image: url(header4.jpg);
 }
 
 h1{
