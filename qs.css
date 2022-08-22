@@ -9,7 +9,7 @@
   background-size: cover;
 }*/
 .section1{
-	background-image: url("header4.jpg") ;
+	background-image: url("header4.jpg") no-repeat center center fixed;
 }
 
 h1{
